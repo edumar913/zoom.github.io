@@ -41,3 +41,12 @@ h1{
     border: 1px solid #000;
     margin: 10px;
 }
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
