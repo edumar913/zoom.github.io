@@ -43,4 +43,11 @@ h1{
 }
 li {
   display: inline;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
